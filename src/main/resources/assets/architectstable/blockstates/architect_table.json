@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "architectstable:block/architect_table"
+    },
+    "facing=south": {
+      "model": "architectstable:block/architect_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "architectstable:block/architect_table",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "architectstable:block/architect_table",
+      "y": 90
+    }
+  }
+}
+
+
+
